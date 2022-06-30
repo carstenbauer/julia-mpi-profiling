@@ -1,0 +1,1 @@
+mpirun -n 5 julia --project=.. 5_mpi_trapezoidal.jl
